@@ -2,7 +2,9 @@
   src="https://capsule-render.vercel.app/api?type=waving&color=0:66CCFF,230:3366FF&height=220&section=header&text=Aerraerr's%20GitHub&fontSize=40&fontAlign=50&fontColor=ffffff" 
   width="100%" 
 />
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=66CCFF&center=true&vCenter=true&size=28&width=435&lines=Hi+I'm+Aeron+Jead+Marquez" alt="Typing SVG" />
+</p>
 
 ---
 
