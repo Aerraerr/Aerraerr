@@ -1,16 +1,46 @@
-## Hi there 👋
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:66CCFF,230:3366FF&height=220&section=header&text=Aerraerr's%20GitHub&fontSize=40&fontAlign=50&fontColor=ffffff" 
+  width="100%" 
+/>
 
-<!--
-**Aerraerr/Aerraerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate IT student and aspiring **junior developer** from the Philippines. I enjoy building and exploring various areas in **Web Development**, **PHP**, **MySQL**, and **Git-based projects**. I’m also enthusiastic about **coding challenges** like the "10 minutes a day" journey to master programming languages.
+
+I am currently focusing on:
+- 🛒 E-commerce projects using **Laravel** and **PHP**
+- 🖥️ CLI and browser-based PHP challenges
+- 🧠 Growing my knowledge in **Cybersecurity**, **Networking**, and **Data Mining**
+
+Here on my GitHub, you’ll find my coding journey, experiments, capstone projects, and personal learning challenges!
+
+---
+
+📊 **Profile Views**  
+![Profile Views](https://komarev.com/ghpvc/?username=Aerraerr&style=flat-square)
+
+---
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK-HERE)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/YOUR-INSTAGRAM-HERE)
+
+---
+
+### 🛠️ Languages & Tools:
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+Thanks for visiting my profile! I'm excited to keep building, learning, and connecting 🚀
