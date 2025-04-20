@@ -26,7 +26,7 @@ Here on my GitHub, you’ll find my coding journey, experiments, capstone projec
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK-HERE)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/YOUR-INSTAGRAM-HERE)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/aerrraerrruu/)
 
 ---
 
