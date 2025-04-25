@@ -7,8 +7,10 @@
 </p>
 
 ---
+I am a third-year BSIT student at Bicol University in the Philippines. I have a keen interest in Machine Learning, **Web Development**, **Mobile Applications**, **Database Development**, and  **Quality Assurance Testing**. I have worked on various projects alongside my colleagues throughout my academic journey. On this GitHub profile, you will find a collection of my projects and contributions that reflect my enthusiasm for the tech industry.
 
-I am a passionate IT student and aspiring **junior developer** from the Philippines. I enjoy building and exploring various areas in **Web Development**, **PHP**, **MySQL**, and **Git-based projects**. I’m also enthusiastic about **coding challenges** like the "10 minutes a day" journey to master programming languages.
+Thank you for visiting my profile, and I look forward to connecting with fellow developers and learners.
+
 
 I am currently focusing on:
 - 🛒 E-commerce projects using **Laravel** and **PHP**
