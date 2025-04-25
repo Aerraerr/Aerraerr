@@ -7,7 +7,7 @@
 </p>
 
 ---
-I am a third-year BSIT student at Bicol University in the Philippines. I have a keen interest in Machine Learning, **Web Development**, **Mobile Applications**, **Database Development**, and  **Quality Assurance Testing**. I have worked on various projects alongside my colleagues throughout my academic journey. On this GitHub profile, you will find a collection of my projects and contributions that reflect my enthusiasm for the tech industry.
+I am a third-year BSIT student at Bicol University in the Philippines. I have a keen interest in **Machine Learning**, **Web Development**, **Mobile Applications**, **Database Development**, and  **Quality Assurance Testing**. I have worked on various projects alongside my colleagues throughout my academic journey. On this GitHub profile, you will find a collection of my projects and contributions that reflect my enthusiasm for the tech industry.
 
 Thank you for visiting my profile, and I look forward to connecting with fellow developers and learners.
 
